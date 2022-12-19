@@ -1,0 +1,19 @@
+{
+  "name": "rss-file-manager",
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VadimUkraine/rss-file-manager.git"
+  },
+  "keywords": [
+    "nodejs",
+    "file-manager",
+    "rss"
+  ],
+  "author": "vadimukraine",
+  "license": "ISC"
+}
